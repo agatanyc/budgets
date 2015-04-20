@@ -1,0 +1,89 @@
+1927/28  Wings                                              $    2,000,000
+1928/29  The Broadway Melody                                $            -
+1929/30  All Quiet on the Western Front                     $    1,200,000
+1930/31  Cimarron                                           $    1,433,000
+1931/32  Grand Hotel                                        $      750,000
+1932/33  Cavalcade                                          $    1,180,280
+1934     It Happened One Night                              $      325,000
+1935     Mutiny on the Bounty                               $    1,950,000
+1936     The Great Ziegfeld                                 $    2,183,000
+1937     The Life of Emile Zola                             $            -
+1938     You Can't Take It With You                         $    1,644,736
+1939     Gone with the Wind                                 $    3,850,000
+1940     Rebecca                                            $    1,288,000
+1941     How Green Was My Valley                            $      800,000
+1942     Mrs. Miniver                                       $    1,340,000
+1943     Casablanca                                         $      878,000
+1944     Going My Way                                       $            -
+1945     The Lost Weekend                                   $    1,250,000
+1946     The Best Years of Our Lives                        $    2,100,000
+1947     Gentleman's Agreement                              $    1,985,000
+1948     Hamlet                                             $            -
+1949     All the King's Men                                 $            -
+1950     All About Eve                                      $    1,400,000
+1951     An American in Paris                               $    2,724,000
+1952     The Greatest Show on Earth                         $            -
+1953     From Here to Eternity                              $    1,650,000
+1954     On the Waterfront                                  $      910,000
+1955     Marty                                              $      350,000
+1956     Around the World in 80 Days                        $    6,000,000
+1957     The Bridge on the River Kwai                       $    2,840,000
+1958     Gigi                                               $    3,319,355
+1959     Ben-Hur                                            $   15,200,000
+1960     The Apartment                                      $    3,000,000
+1961     West Side Story                                    $    6,000,000
+1962     Lawrence of Arabia                                 $   15,000,000
+1963     Tom Jones                                          $    1,000,000
+1964     My Fair Lady                                       $   17,000,000
+1965     The Sound of Music                                 $    8,200,000
+1966     A Man for All Seasons                              $    2,000,000
+1967     In the Heat of the Night                           $    2,000,000
+1968     Oliver!                                            $   10,000,000
+1969     Midnight Cowboy                                    $    3,200,000
+1970     Patton                                             $   12,625,000
+1971     The French Connection                              $    1,800,000
+1972     The Godfather                                      $   67,000,000
+1973     The Sting                                          $    5,500,000
+1974     The Godfather Part II                              $   13,000,000
+1975     One Flew Over the Cuckoo's Nest                    $    3,000,000
+1976     Rocky                                              $    1,075,000
+1977     Annie Hall                                         $    4,000,000
+1978     The Deer Hunter                                    $   15,000,000
+1979     Kramer vs. Kramer                                  $    8,000,000
+1980     Ordinary People                                    $    6,000,000
+1981     Chariots of Fire                                   $            -
+1982     Gandhi                                             $   22,000,000
+1983     Terms of Endearment                                $    8,000,000
+1984     Amadeus                                            $   18,000,000
+1985     Out of Africa                                      $   28,000,000
+1986     Platoon                                            $    6,000,000
+1987     The Last Emperor                                   $   23,800,000
+1988     Rain Man                                           $   25,000,000
+1989     Driving Miss Daisy                                 $    7,500,000
+1990     Dances with Wolves                                 $   22,000,000
+1991     The Silence of the Lambs                           $   19,000,000
+1992     Unforgiven                                         $   14,400,000
+1993     Schindler's List                                   $   22,000,000
+1994     Forrest Gump                                       $   55,000,000
+1995     Braveheart                                         $   72,000,000
+1996     The English Patient                                $   27,000,000
+1997     Titanic                                            $  200,000,000
+1998     Shakespeare in Love                                $   25,000,000
+1999     American Beauty                                    $   15,000,000
+2000     Gladiator                                          $  103,000,000
+2001     A Beautiful Mind                                   $   58,000,000
+2002     Chicago                                            $   45,000,000
+2003     The Lord of the Rings: The Return of the King      $   94,000,000
+2004     Million Dollar Baby                                $   30,000,000
+2005     Crash                                              $    6,500,000
+2006     The Departed                                       $   90,000,000
+2007     No Country for Old Men                             $   25,000,000
+2008     Slumdog Millionaire                                $   15,000,000
+2009     The Hurt Locker                                    $   15,000,000
+2010     The King's Speech                                  $   15,000,000
+2011     The Artist                                         $   15,000,000
+2012     Argo                                               $   44,500,000
+2013     12 Years a Slave                                   $   22,000,000
+2014     Birdman or (The Unexpected Virtue of Ignorance)    $   16,500,000
+----
+Average: $ 18,364,380
